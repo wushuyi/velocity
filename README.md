@@ -1,4 +1,9 @@
-##Velocity 1.2.1
+##Velocity 1.2.2
+
+**News**  
+You can now order the Velocity book on [Amazon](http://amazon.com/Web-Animation-using-JavaScript-Develop/dp/0134096665)!
+
+Also, a big round of Velocity updates are coming late June :)
 
 **Docs**  
 [VelocityJS.org](http://VelocityJS.org)
@@ -6,14 +11,22 @@
 **Quickstart**  
 
 Velocity (CDN):  
-`<script src="//cdn.jsdelivr.net/velocity/1.2.1/velocity.min.js"></script>`
+`<script src="//cdn.jsdelivr.net/velocity/1.2.2/velocity.min.js"></script>`
 
 Velocity UI pack (CDN):  
-`<script src="//cdn.jsdelivr.net/velocity/1.2.1/velocity.ui.min.js"></script>`
+`<script src="//cdn.jsdelivr.net/velocity/1.2.2/velocity.ui.min.js"></script>`
 
 Package managers:  
 `bower install velocity`  
 `npm install velocity-animate`  
+
+**Found a Possible Bug**
+
+Report it as an issue on here.
+
+**Questions or Problems?**
+
+Ask on [StackOverflow](http://stackoverflow.com/tags/velocity.js) (make sure you add the ```velocity.js``` and ```javascript``` tags).
 
 ###**Updates**
 
@@ -35,9 +48,9 @@ Package managers:
 - **Velocity** is a fast, feature-rich standalone alternative to jQuery's $.animate().
 
 ###**Users**
-[tumblr.com](http://tumblr.com) [scribd.com](http://scribd.com) [gap.com](http://gap.com) [complex.com](http://complex.com) [orbitz.com](http://orbitz.com) [htc.com](http://htc.com) [eater.com](http://eater.com) [seatgeek.com](http://seatgeek.com) [warbyparker.com](http://warbyparker.com) [oldnavy.com](http://oldnavy.com) [trove.com](http://trove.com) [saucelabs.com](http://saucelabs.com) [diy.org](http://diy.org) [siftscience.com](http://siftscience.com) [dropcam.com](http://dropcam.com) [clinkle.com](http://clinkle.com) [weezer.com](http://weezer.com) [welt.de](http://welt.de) [dyson360eye.com](http://dyson360eye.com)
+[whatsapp.com](http://web.whatsapp.com) [tumblr.com](http://tumblr.com) [windows.com](http://windows.com) [mazda.com](http://mazda.com) [samsung.com](http://samsung.com) [uber.com](http://uber.com) [mailchimp.com](http://mailchimp.com) [scribd.com](http://scribd.com) [gap.com](http://gap.com) [complex.com](http://complex.com) [orbitz.com](http://orbitz.com) [htc.com](http://htc.com) [today.com](http://today.com) [funnyordie.com](http://funnyordie.com) [htc.com](http://htc.com) [thomsonreuters.com](http://thomsonreuters.com) [seatgeek.com](http://seatgeek.com) [newbalance.com](http://newbalance.com) [kodak.com](http://kodak.com) [vizio.com](http://vizio.com) [seatgeek.com](http://seatgeek.com) [warbyparker.com](http://warbyparker.com) [hipmunk.com](http://hipmunk.com) [saucelabs.com](http://saucelabs.com) [diy.org](http://diy.org) [siftscience.com](http://siftscience.com) [dropcam.com](http://dropcam.com) [weezer.com](http://weezer.com) [welt.de](http://welt.de) [dyson360eye.com](http://dyson360eye.com) [cachefly.com](http://cachefly.com) [metalab.co](http://metalab.co) [coronausa.com](http://coronausa.com)
 
 ====
 
 [MIT License](LICENSE.md). © Julian Shapiro (http://twitter.com/shapiro).  
-[Stripe](https://stripe.com/blog/stripe-open-source-retreat) sponsors Velocity's development. [BrowserStack](browserstack.com) provides testing services.
+[Stripe](https://stripe.com/blog/stripe-open-source-retreat) sponsors Velocity's development. [BrowserStack](http://www.browserstack.com/) provides testing services.
